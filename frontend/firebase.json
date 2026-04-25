@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "voicecloning-4f183",
+          "appId": "1:202245564888:android:f41756eb3507d85bbc6aad",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "voicecloning-4f183",
+          "configurations": {
+            "android": "1:202245564888:android:f41756eb3507d85bbc6aad",
+            "ios": "1:202245564888:ios:958eeb52d022881abc6aad",
+            "macos": "1:202245564888:ios:958eeb52d022881abc6aad",
+            "web": "1:202245564888:web:7b9cce54a84ac199bc6aad",
+            "windows": "1:202245564888:web:8582f00f6057afe7bc6aad"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

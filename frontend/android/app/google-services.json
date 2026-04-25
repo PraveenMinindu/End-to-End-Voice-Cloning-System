@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202245564888",
+    "project_id": "voicecloning-4f183",
+    "storage_bucket": "voicecloning-4f183.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202245564888:android:f41756eb3507d85bbc6aad",
+        "android_client_info": {
+          "package_name": "com.example.voicecloning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0d-D8SMDn6opWcmQ-KARYodgnswxQlMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
