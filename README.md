@@ -53,7 +53,7 @@ To validate the accuracy of the voice cloning system, the following outputs are 
 * **Source Vocals**: Extracted vocals from the original song
 * **Cloned Output**: Final audio where the song is rendered using the trained voice
 
-(Note: Add your actual audio links here)
+ inputs and output--> assets/audio 
 
 ## Technical Stack
 
