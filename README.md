@@ -82,7 +82,8 @@ The Full-Stack AI Voice Cloner demonstrates the practical application of deep le
 
 ## Author
 
-Developed by: Praveen Minindu
+Developed by: Praveen Minindu 
+              Sahan sandeepa
 
 
 
